@@ -4,7 +4,7 @@ A collection of Power BI data analytics projects covering finance, e-commerce, H
 
 ## Projects
 
-### 1. Bank Loan Applications Dashboard
+### 1. Bank Loan Application Dashboard
 
 Financial analytics dashboard analyzing loan applications, funded amounts, loan performance, interest rates, loan purposes, and borrower characteristics.
 
