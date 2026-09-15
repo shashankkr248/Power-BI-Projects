@@ -4,13 +4,13 @@ A collection of Power BI data analytics projects covering finance, e-commerce, H
 
 ## Projects
 
-### 1. Bank Loan Application Dashboard
+### 1. Bank Loan Application Analysis
 
 Financial analytics dashboard analyzing loan applications, funded amounts, loan performance, interest rates, loan purposes, and borrower characteristics.
 
 **Tools:** Power BI, Excel, DAX
 
-[View Project](<./Bank Loan Application Dashboard>)
+[View Project](<./Bank Loan Application>)
 
 ---
 
@@ -20,7 +20,7 @@ E-commerce analytics dashboard analyzing sales, profit, products, customers, cat
 
 **Tools:** Power BI, Excel, DAX
 
-[View Project](./02-ECommerce-Sales)
+[View Project](<./ECommerce Sales>)
 
 ---
 
@@ -30,7 +30,7 @@ HR dashboard analyzing employee attrition, demographics, salary, job roles, educ
 
 **Tools:** Power BI, Excel, DAX
 
-[View Project](./03-HR-Analytics)
+[View Project](<./HR Analytics>)
 
 ---
 
@@ -40,7 +40,7 @@ Airline analytics dashboard analyzing flight prices, airlines, routes, travel cl
 
 **Tools:** Power BI, Excel, DAX
 
-[View Project](./04-Airlines-Analytics)
+[View Project](<./Airlines Analytics>)
 
 ---
 
@@ -50,4 +50,4 @@ Automotive sales dashboard analyzing Tesla units sold, revenue, models, colors, 
 
 **Tools:** Power BI, CSV, DAX
 
-[View Project](./05-Tesla-Sales-Analytics)
+[View Project](<./Tesla Sales Analytics>)
