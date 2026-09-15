@@ -10,7 +10,7 @@ Financial analytics dashboard analyzing loan applications, funded amounts, loan 
 
 **Tools:** Power BI, Excel, DAX
 
-[View Project](./Bank Loan Application Dashboard)
+[View Project](<./Bank Loan Application Dashboard>)
 
 ---
 
