@@ -1,12 +1,12 @@
 # Power BI Projects
 
-A collection of Power BI data analytics projects covering finance, e-commerce, HR, aviation, and automotive sales.
+A collection of Power BI data analytics projects covering finance, e-commerce, HR, aviation and automotive sales.
 
 ## Projects
 
 ### 1. Bank Loan Application Analysis
 
-Financial analytics dashboard analyzing loan applications, funded amounts, loan performance, interest rates, loan purposes, and borrower characteristics.
+Financial analytics dashboard analyzing loan applications, funded amounts, loan performance, interest rates, loan purposes and borrower characteristics.
 
 **Tools:** Power BI, Excel, DAX
 
@@ -16,7 +16,7 @@ Financial analytics dashboard analyzing loan applications, funded amounts, loan 
 
 ### 2. ECommerce Sales Analysis
 
-E-commerce analytics dashboard analyzing sales, profit, products, customers, categories, payment methods, and regional performance.
+E-commerce analytics dashboard analyzing sales, profit, products, customers, categories, payment methods and regional performance.
 
 **Tools:** Power BI, Excel, DAX
 
@@ -26,7 +26,7 @@ E-commerce analytics dashboard analyzing sales, profit, products, customers, cat
 
 ### 3. HR Analytics
 
-HR dashboard analyzing employee attrition, demographics, salary, job roles, education, and workforce trends.
+HR dashboard analyzing employee attrition, demographics, salary, job roles, education and workforce trends.
 
 **Tools:** Power BI, Excel, DAX
 
@@ -36,7 +36,7 @@ HR dashboard analyzing employee attrition, demographics, salary, job roles, educ
 
 ### 4. Airlines Analytics
 
-Airline analytics dashboard analyzing flight prices, airlines, routes, travel class, stops, duration, and booking trends.
+Airline analytics dashboard analyzing flight prices, airlines, routes, travel class, stops, duration and booking trends.
 
 **Tools:** Power BI, Excel, DAX
 
@@ -46,7 +46,7 @@ Airline analytics dashboard analyzing flight prices, airlines, routes, travel cl
 
 ### 5. Tesla Sales Analytics
 
-Automotive sales dashboard analyzing Tesla units sold, revenue, models, colors, states, sales channels, age groups, and yearly performance.
+Automotive sales dashboard analyzing Tesla units sold, revenue, models, colors, states, sales channels, age groups and yearly performance.
 
 **Tools:** Power BI, CSV, DAX
 
